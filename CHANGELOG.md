@@ -5,6 +5,7 @@ Unreleased section into the release's entry.
 
 ## Unreleased
 
+- Upgrade the Veduta engine from v0.1.0-rc.1 to v0.1.0 (`veduta upgrade`; no format migrations).
 ## v0.1.0-rc.1 — 2026-09-11
 
 - Project created with `veduta init` from the Veduta demo template (engine v0.1.0-rc.1).
